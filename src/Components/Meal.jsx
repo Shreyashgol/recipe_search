@@ -20,8 +20,7 @@ const Meal = () => {
         <div className="heading">
           <h1>Search Your Food Recipe</h1>
           <h4>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque
-            tempore unde sed ducimus voluptates illum!
+            Developed @Shreyash Golhani
           </h4>
         </div>
         <div className="searchBox">
