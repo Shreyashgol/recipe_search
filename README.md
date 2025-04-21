@@ -2,4 +2,4 @@ This is a friendly and intersting project , where my key idea is to learn react 
 
 This is a food recipe app where we search our delicious food recipe ..
 
-![Uploading image.png…]()
+file:///Users/shreyashgolhani1/Desktop/Screenshot%202025-04-21%20at%2011.21.40%E2%80%AFPM.png
